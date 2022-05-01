@@ -7,6 +7,7 @@ using Ordering.Infrastructure.Persistence;
 
 namespace Ordering.API
 {
+    // test comment
     public class Program
     {
         public static void Main(string[] args)
